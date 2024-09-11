@@ -57239,12 +57239,12 @@ button.scroll-top:focus {
 
 /* line 37, src/assets/scss/corporx/_slider-indicator.scss */
 .custom-dot.owl-theme .owl-dots button.owl-dot span:hover {
-  background: #e80566;
+  background: #e87a18;
 }
 
 /* line 40, src/assets/scss/corporx/_slider-indicator.scss */
 .custom-dot.owl-theme .owl-dots button.owl-dot.active span {
-  background: #e80566;
+  background: #e87a18;
 }
 
 @media (min-width: 992px) {
@@ -58129,7 +58129,7 @@ color: #878787;
     display: flex;
     flex-direction: column;
     padding: 0; 
-    margin-right: 115px;
+    margin-right: 20px;
   }
 
   .navbar-nav .nav-item {
@@ -58176,7 +58176,7 @@ color: #878787;
   .navbar-nav {
     display: flex;
     flex-direction: column;
-    padding: 0; /* Reset padding */
+    padding: 0;
   }
 
   .navbar-nav .nav-item {
@@ -58224,7 +58224,7 @@ margin-right:90px;
     display: flex;
     flex-direction: column;
     padding: 0; 
-    margin-right: 200px;
+    margin-right: 20px;
   }
 
   .navbar-nav .nav-item {
@@ -58286,10 +58286,10 @@ margin-right:70px;
   height: 100%;
   background: linear-gradient(
     to bottom,
-    rgba(26, 44, 121, 0.7),
-    rgba(26, 44, 121, 0.7)
+    rgba(26, 44, 121, 0.4),
+    rgba(26, 44, 121, 0.4)
 );
-  z-index: 1; 
+   z-index: 1; 
 }
 
 .carousel-caption {
